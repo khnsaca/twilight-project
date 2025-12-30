@@ -1,0 +1,5 @@
+Dari yang saya baca dan mendengarkan  sama sama membahas bagaimana kecerdasan buatan dan sistem kontrol digunakan untuk membuat robot dapat belajar dan bergerak secara mandiri,
+dimana video youtube berfokus pada penjelasan  dasar Reinforcement Learning sebagai metode pembelajaran melalui interaksi dengan lingkungan menggunakan mekanisme reward dan 
+punishment, sedangkan PDF menjelaskan secara mendalam prinsip-prinsip robot humanoid seperti kinematika, dinamika, keseimbangan, kontrol berjalan, dan pembelajaran gerak. 
+Dimana keduanya sama-sama menjelaskan bahwa robot humanoid dapat berjalan dengan seimbang, menyesaikan diri saat ada gangguan, dan bergerak seperti manusia, robot tidak hanya 
+diprogram secara kaku, tetapi harus belajar dari pengalaman.
